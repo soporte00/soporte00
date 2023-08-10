@@ -1,6 +1,4 @@
-### 👋 Hola soy David Ortiz un programador BackEnd de Tucumán Argentina, al cual le gusta mucho el desarrollo web utilizando las mejores prácticas.
-
-## Actualmente trabajo en Grupo Yuhmak.
+### 👋 Hola soy David, un programador BackEnd de Tucumán Argentina. Me encanta el desarrollo web, y los viernes de festejo en la oficina ;).
 
 ## Mi contacto:
 - [Email: david_ortiz87@live.com.ar](mailto:david_ortiz87@live.com.ar)
